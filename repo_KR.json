@@ -7,7 +7,7 @@
         "TestingAssemblyVersion": "1.14.2.4",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://git.lop-sync.com/huggingway/LopClient",
+        "RepoUrl": "https://github.com/loporrit/MareClient",
         "Tags": [
           "customization"
         ],
