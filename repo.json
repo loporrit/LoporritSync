@@ -3,24 +3,24 @@
         "Author": "Huggingway",
         "Name": "Loporrit Sync",
         "InternalName": "LoporritSync",
-        "AssemblyVersion": "1.14.2.4",
-        "TestingAssemblyVersion": "1.14.2.4",
+        "AssemblyVersion": "1.15.0.0",
+        "TestingAssemblyVersion": "1.15.0.0",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/loporrit/MareClient",
         "Tags": [
           "customization"
         ],
-        "DalamudApiLevel": 14,
-        "TestingDalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
+        "TestingDalamudApiLevel": 15,
         "LoadPriority": 0,
         "IconUrl": "https://plugin.lop-sync.com/images/icon.png",
         "Punchline": "Social modding for everyone!",
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://plugin.lop-sync.com/download/LoporritSync-v1.14.2.4.zip",
-        "DownloadLinkTesting": "https://plugin.lop-sync.com/download/LoporritSync-v1.14.2.4.zip",
-        "DownloadLinkUpdate": "https://plugin.lop-sync.com/download/LoporritSync-v1.14.2.4.zip"
+        "DownloadLinkInstall": "https://plugin.lop-sync.com/download/LoporritSync-v1.15.0.0.zip",
+        "DownloadLinkTesting": "https://plugin.lop-sync.com/download/LoporritSync-v1.15.0.0.zip",
+        "DownloadLinkUpdate": "https://plugin.lop-sync.com/download/LoporritSync-v1.15.0.0.zip"
     }
 ]
